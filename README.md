@@ -3,7 +3,7 @@ the WebP and Avif format out-of-the-box. Due to the nature of shared services, i
 image transformation library used in earlier versions and in self-managed installations of the CoreMedia Content Cloud.
 
 Learn more about the specifics of and how to get access to the image transformation at
-[Introduction To The Image Transformation](https://documentation.coremedia.com/coremedia-services/image-transformation/).
+[Introduction To The Image Transformation](https://documentation.coremedia.com/coremedia-services/image-transformation/image-transformation-cloud/).
 
 In this repository, the public releases of the required plugins and the blobs migration tool are available. The naming convention
 used here is:
